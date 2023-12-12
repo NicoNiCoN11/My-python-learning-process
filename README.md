@@ -10,3 +10,4 @@ Step2: Use Pycharm to design some simple scripts that can analysis data or do pr
 Step3: Read some code designed by other researchers and develop my own code(Github)
 
 Step4: Learn something about DeepLearning.
+To be continue...
